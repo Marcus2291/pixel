@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html lang="pt-br" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html"
+
+<head>
+    <meta charset="UTF-8"/>
+      <title>Pixel Designer</title>
+   <link rel="stylesheet" type="text/css">
+  </head>
+  <div id="index">
+<!-- Componente Cabeçario -->
+    <header>
+        <figure class="foto-logo">
+        <img src="https://dc529.4shared.com/img/4j2dRZpSfa/s24/18ef828b468/WhatsApp_Image_2024-04-19_at_1?async&rand=0.9885536333318194"/>
+            </figure>
+      <div class="cabecario">
+        <h1>Pixel Designer</h1>
+      </div>
+        <nav id="menu">
+<h1>Menu Principal</h1>
+    <ul type="disc">
+        <li><a href="index.html"> Home</a></li>
+        <li><a href="specs.html"> Papelaria</a></li>
+        <li><a href="fotos.html">Festas</a></li>
+        <li><a href="multimidia.html">Multimídia</a </li>
+        <li><a href="fale-conosco.html">Fale conosco</a></li>
+    </ul>
+    </nav>
+    </header>
+<!-- Componente Corpo -->
+ 
+<body>
+  <figure class="foto-fundo">
+        <img src="https://dc529.4shared.com/img/4j2dRZpSfa/s24/18ef828b468/WhatsApp_Image_2024-04-19_at_1?async&rand=0.9885536333318194"/>
+            </figure>
+    </body>
+
+<!--Componente Roda-pé-->
+    <footer>
+      <div id="rodape">
+        <h5> © 2024 Pixel Designer. Todos os direitos reservados.</h5>
+      </div>
+    </footer>
+  
+</div>
+</html>
